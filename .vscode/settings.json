@@ -1,0 +1,7 @@
+{
+	"files.autoSave": "afterDelay",
+	"editor.fontFamily": " 'Fira Code iScript','Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnType": true
+}

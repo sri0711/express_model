@@ -1,0 +1,35 @@
+{
+	"name": "model",
+	"version": "1.0.0",
+	"description": "frameworkmodel",
+	"main": "index.js",
+	"engines": {
+		"node": ">=18.0.0"
+	},
+	"scripts": {
+		"start": "node Source/index.js",
+		"lint": "eslint ./ "
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/sri0711/express_model.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/sri0711/express_model/issues"
+	},
+	"homepage": "https://github.com/sri0711/express_model#readme",
+	"devDependencies": {
+		"eslint": "^8.32.0",
+		"eslint-plugin-node": "^11.1.0",
+		"eslint-plugin-prettier": "^4.2.1"
+	},
+	"dependencies": {
+		"eslint-plugin-security": "^1.6.0",
+		"express": "^4.18.2",
+		"mongoose": "^6.8.3",
+		"morgan": "^1.10.0"
+	}
+}
